@@ -1,4 +1,4 @@
-package com.ankur007.cricketprediction;
+package com.ankur007.cricketprediction2;
 
 import com.facebook.react.ReactActivity;
 

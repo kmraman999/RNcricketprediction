@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181087364219",
+    "project_id": "cricket-prediction-2",
+    "storage_bucket": "cricket-prediction-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181087364219:android:bb885a6fd757e2f2e2aede",
+        "android_client_info": {
+          "package_name": "com.ankur007.cricketprediction2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181087364219-7gr86ro3rubhtaucf2rrkquvmbccr4bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1nNrv_FkMhY7kqTRHxAEVQykXW_xNBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181087364219-7gr86ro3rubhtaucf2rrkquvmbccr4bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
